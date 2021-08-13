@@ -1,6 +1,6 @@
 # SwapMeHarder
 
-![](./github/iu.png)
+![](https://rawcdn.githack.com/sambacha/swap-compare/master/.github/iu.png?token=AH2D4LAKCXVY2I53ZZ5SYRLBD6TWS)
 
 
 Compare the implementation of the two different  functions in `contracts/SwapMeHarder.sol`. 
