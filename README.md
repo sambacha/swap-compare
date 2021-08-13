@@ -22,6 +22,7 @@ They are suppose to implement a swap functionality for trading. They achieve the
 email your answers to: sam@manifoldfinance.com <br>
 email subject: SwapMeHarder Entry <github username> <br>
 I will ACK your entry via email reply. <br>
+Also create a github issue on this repo signaling to me and everyone else that you have entered and submitted
 
 
 ## Objectives
