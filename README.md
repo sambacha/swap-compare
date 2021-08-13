@@ -8,6 +8,22 @@ They are suppose to implement a swap functionality for trading. They achieve the
 
 <br>
 
+## Prize:
+
+**sponsored by Manifold Finance**
+
+1st. $1,000 DAI <br>
+2nd: $500 USDT <br>
+3rd: Set of Steak Knives <br>
+4th: *mystery prize* <br>
+
+## How to Enter
+
+email your answers to: sam@manifoldfinance.com <br>
+email subject: SwapMeHarder Entry <github username> <br>
+I will ACK your entry via email reply. <br>
+
+
 ## Objectives
 
 calculate: transaction cost <br>
