@@ -1,0 +1,6 @@
+*.html
+*.css
+*.scss
+build/
+dist/
+*.min.js
