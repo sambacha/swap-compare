@@ -1,28 +1,16 @@
 # SwapMeHarder
 
-![](https://rawcdn.githack.com/sambacha/swap-compare/master/.github/iu.png?token=AH2D4LAKCXVY2I53ZZ5SYRLBD6TWS)
 
+> [!IMPORTANT]
+> This is an example showing the usage difference between case/switch vs. If/else 
 
 Compare the implementation of the two different  functions in `contracts/SwapMeHarder.sol`. 
-They are suppose to implement a swap functionality for trading. They achieve the same results, but from slightly different ways.
+They are suppose to implement a swap functionality for trading. They achieve the same* results, but from slightly different ways.
+
+> [!WARNING]
+> *same* is, well, you will see.
 
 <br>
-
-## Prize:
-
-**sponsored by Manifold Finance**
-
-1st. $1,000 DAI <br>
-2nd: $500 USDT <br>
-3rd: Set of Steak Knives <br>
-4th: *mystery prize* <br>
-
-## How to Enter
-
-email your answers to: sam@manifoldfinance.com <br>
-email subject: SwapMeHarder Entry <github username> <br>
-I will ACK your entry via email reply. <br>
-Also create a github issue on this repo signaling to me and everyone else that you have entered and submitted
 
 
 ## Objectives
@@ -47,11 +35,11 @@ Which implementation is `better`? Does the answer depend on pairs/markets/etc? <
 
 <br>
 
-## Bonus
-
-![](.github/image.png)
-
 
 ## License 
 
 MIT
+
+## Notice
+
+![](.github/iu.png)
